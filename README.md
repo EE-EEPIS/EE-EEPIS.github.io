@@ -1,5 +1,6 @@
 # EE-EEPIS.github.io
-Open Electrical Engineering Projects and Class Repository 
+Open Electrical Engineering Projects and Class Repository <br />
+www.pens.ac.id <br />
 
 # How to use this repository
 ## Hi there 👋
@@ -17,9 +18,14 @@ As **Lecturer**, you can =>
 4. 🖥️ 📶  **Monitor the activity** inside the repository and forked repositories (reference: [How To Monitor Repository Activity](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/viewing-a-summary-of-repository-activity))
 
 As Student, you can =>
-1. Fork and/or download the repository you are assigned/ shared into your own repository
-2. Continue the project/class into your own repository, make it as your live portofolio
-3. Create/ suggest changes to the project/class materials
+1. 🍴 🌀 Fork and/or download the repository you are assigned/ shared into your own repository (reference: [How To Fork A Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
+**Video:** https://youtu.be/f5grYMXbAV0 <br />
+2. 🏅 💰 Continue the project/class into your own repository, make it as your live portofolio (example: https://github.com/firmanserdana)
+3. 📨 ⏰ Create/ suggest changes to the project/class materials (reference: [How to Suggest Change in Repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
+**Video:** https://youtu.be/fRaHq5jd2Po <br />
 
 # Licenses
+Licenses of each repository will be listed inside, each may have limited but some will be an open sourced repository
+
 # Repository List
+Can be seen at: https://github.com/orgs/EE-EEPIS/repositories
