@@ -3,10 +3,11 @@ Open Electrical Engineering Projects and Class Repository <br />
 www.pens.ac.id <br />
 
 # How to use this repository
-## Hi there 👋
+## Hi there 👋 ⚡️ 👷‍♂️ 👷‍♀️
 Use this frontpage/ overview page as navigation pivot <br />
 [Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) will be listed in this frontpage/ overview page <br />
 Each Repository will have its own method to be utilized <br />
+Before using this repository, to have it in full potential and benefit, [you need to create an account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) step can be also seen in this video => https://youtu.be/ovCRBERA1NQ <br />
 
 As **Lecturer**, you can =>
 1. ➕ 💼 **Create Public/ Private Repository** for your Class/ Projects (reference: [How To Create Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository))<br />
