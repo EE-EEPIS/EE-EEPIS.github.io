@@ -23,7 +23,7 @@ As 👨‍🎓 👩‍🎓 **Student**, you can =>
 1. 🍴 🌀 Fork and/or download the repository you are assigned/ shared into your own repository (reference: [How To Fork A Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
 **Video:** [https://youtu.be/f5grYMXbAV0](https://youtu.be/f5grYMXbAV0) <br />
 2. 🏅 💰 Continue the project/class into your own repository, make it as your live portofolio (example: https://github.com/firmanserdana)
-3. 📨 ⏰ Create/ suggest changes to the project/class materials (reference: [How to Suggest Change in Repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
+3. 📨 ⏰ Create/ suggest changes to the project/class materials (reference: [How to Suggest Change in Repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)) <br />
 **Video:** [https://youtu.be/fRaHq5jd2Po](https://youtu.be/fRaHq5jd2Po) <br />
 
 # Licenses 🪪 ⚖️
